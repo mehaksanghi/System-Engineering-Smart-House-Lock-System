@@ -22,7 +22,7 @@ It has a built-in Wi-Fi bridge that allows the lock to be controlled from anywhe
 * **Extending access - Authorized user(s) & Special priveleges**
 Customer should sign up as the owner and then assign special privileges to friends, family members, or maintenance staff, who will then be recognized as authorized users. Owner can either give full access or limit the access to certain days of the week or even certain times of the day.
 
-![Expected Costs Trend over the years](C:\Users\mehak\Downloads)
+![Expected Costs Trend over the years](C:\Users\mehak\Downloads\ISE 222 Costs.png)
 
 ## Techniques leveraged to engineer product
 * Customer Needs & Wants Validation
